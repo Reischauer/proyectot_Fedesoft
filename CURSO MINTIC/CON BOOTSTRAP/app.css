@@ -1,0 +1,28 @@
+ body {
+    background-color: lightblue;
+}
+
+h1 {
+    color: green;
+ 
+}
+
+p {
+    color: red;
+	
+    
+}
+
+p.ejemplo {
+    color: yellow;
+}
+
+
+
+
+a:hover {
+  background-color: gold;
+}
+
+
+

@@ -1,0 +1,47 @@
+CSS: VALORES 1 PX
+	     1 REM
+	    1 EM
+
+El primero toma la medida del padre, el segundo es una medida estandar.
+
+ej: 
+div span
+{
+fontsize = 1 rem
+}
+
+div icono{
+fontsize = 1 rem
+
+}
+
+tamaños en 0, no hay que indicar medidas
+colores, se pueden dar en cod. hex,   o codigo rgb
+
+si se quiere dar la opacidad, toca poner es rgba
+ojo, no mezclar parametros rgb con hexadecimales
+
+frameworks: 
+bootstrap
+materialize 
+foundation
+
+Existen compiladores para que al usar frameworks, el proyecto se cree con las n usadas de cada framework
+ej:
+webpack
+grunt
+gulp
+
+
+Containers: texto de la pantalla
+
+containerfluid: recomendado para poner los fondos
+Recomendacion: al usar varias secciones no usar solo div's. Usar la etiqueta section.
+
+
+columnas
+
+
+revisar, etiquetas pr pd y m 
+align items center
+
